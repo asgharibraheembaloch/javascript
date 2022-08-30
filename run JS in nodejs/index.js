@@ -1,0 +1,1 @@
+console.log("Hello NodeJS") // run >> node index.js in terminal
